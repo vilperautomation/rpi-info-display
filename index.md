@@ -15,7 +15,7 @@ Ohjelma käynnistyy automaattisesti, kun Raspberry Pi saa virran. Näin laite vo
 </p>
 
 <p align="center">
-  <em>Projektissa käytetty Raspberry Pi.</em>
+  <em>Projektissa käytettiin vanhaa Raspberry Pi:tä, jolle löytyi uusi käyttötarkoitus.</em>
 </p>
 
 ## Toteutus
