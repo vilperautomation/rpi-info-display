@@ -10,6 +10,14 @@ Infotaulussa on kolme yksinkertaista näkymää. Painikkeilla voi näyttää kel
 
 Ohjelma käynnistyy automaattisesti, kun Raspberry Pi saa virran. Näin laite voidaan ottaa käyttöön pelkästään kytkemällä virta päälle.
 
+<p align="center">
+  <img src="assets/images/rbpi.jpg" alt="Projektissa käytetty Raspberry Pi" width="600">
+</p>
+
+<p align="center">
+  <em>Projektissa käytetty Raspberry Pi.</em>
+</p>
+
 ## Toteutus
 
 Projektissa Raspberry Pi ohjaa näyttöä ja lukee painikkeiden tilaa GPIO-tulojen kautta. Käyttöliittymä toteutettiin Pythonilla, ja siinä painotettiin suurta tekstikokoa sekä selkeää näkymärakennetta.
