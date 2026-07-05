@@ -2,7 +2,18 @@
 
 Raspberry Pi -infotaulu on käytännön tarpeeseen tehty apuvälineprojekti. Projektin tavoitteena oli tehdä selkeä infonäyttö henkilölle, jolla on muistisairautta ja heikentynyt näkö. Näytöllä näytetään arjen kannalta tärkeitä tietoja suurella tekstillä, ja näkymää voidaan vaihtaa fyysisillä painikkeilla ilman näppäimistöä tai hiirtä.
 
-[Video laitteen toiminnasta]
+<p align="center">
+  <iframe width="360" height="640"
+    src="https://www.youtube.com/embed/72q2VenjU6Y"
+    title="Raspberry Pi -infotaulun toiminta"
+    frameborder="0"
+    allowfullscreen>
+  </iframe>
+</p>
+
+<p align="center">
+  <em>Lyhyt video Raspberry Pi -infotaulun toiminnasta.</em>
+</p>
 
 ## Toiminta
 
