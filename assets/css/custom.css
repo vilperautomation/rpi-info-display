@@ -10,3 +10,12 @@ h1:first-of-type > a {
 h1:first-of-type {
   display: none !important;
 }
+
+.back-link {
+  margin: 0 0 24px;
+  font-size: 0.95rem;
+}
+
+.back-link + h1 {
+  margin-top: 0;
+}
