@@ -1,3 +1,11 @@
+---
+title: Raspberry Pi -infotaulu
+---
+
+<script>
+  document.title = "Raspberry Pi -infotaulu";
+</script>
+
 <p class="back-link">
   <a href="https://vilperautomation.github.io/">← Kaikki projektit</a>
 </p>
