@@ -1,4 +1,4 @@
-<p style="margin: 0 0 24px;">
+<p>
   <a href="https://vilperautomation.github.io/">← Kaikki projektit</a>
 </p>
 
