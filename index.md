@@ -44,3 +44,5 @@ Nykyisten painikkeiden toimintoja voisi tarvittaessa muuttaa, ja koteloon olisi 
 <p align="center">
   <em>Painikekotelon rakentamista.</em>
 </p>
+
+<link rel="stylesheet" href="assets/css/custom.css">
