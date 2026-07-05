@@ -17,7 +17,7 @@ Raspberry Pi -infotaulu on käytännön tarpeeseen tehty apuvälineprojekti. Pro
 
 ## Toiminta
 
-Infotaulussa on kolme yksinkertaista näkymää. Painikkeilla voi näyttää kellonajan, päivämäärän tai tiedon siitä, milloin seuraava toimintapäivä on. Jokaiselle näkymälle on oma painike, jolloin laitteen käyttö pysyy mahdollisimman suoraviivaisena.
+Infotaulussa on kolme yksinkertaista näkymää. Painikkeilla voi näyttää kellonajan, päivämäärän tai tiedon siitä, milloin seuraava toimintapäivä on. Päivämääränäkymässä näkyvät myös tuttujen merkkipäivät. Jokaiselle näkymälle on oma painike, jolloin laitteen käyttö pysyy mahdollisimman suoraviivaisena.
 
 Ohjelma käynnistyy automaattisesti, kun Raspberry Pi saa virran. Näin laite voidaan ottaa käyttöön pelkästään kytkemällä virta päälle.
 
