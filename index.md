@@ -16,4 +16,8 @@ Projektissa Raspberry Pi ohjaa näyttöä ja lukee painikkeiden tilaa GPIO-tuloj
 
 Ohjelmiston lisäksi projektiin kuului myös jonkin verran käytännön rakentamista. Painikkeet kiinnitettiin erilliseen koteloon, niihin juotettiin kytkentäjohdot ja painikkeet kytkettiin Raspberry Pi:n GPIO-tuloihin. Näin infotaululle saatiin yksinkertainen fyysinen ohjauspaneeli.
 
+![Painikekotelon rakentaminen](assets/images/kotelon-rakentaminen.png)
+
+*Kotelon rakentamista: painikkeiden kiinnitystä ja kytkentäjohtojen juottamista.*
+
 Nykyisten painikkeiden toimintoja voisi tarvittaessa muuttaa, ja koteloon olisi mahdollista lisätä myös uusia painikkeita. Tässä projektissa kolme painiketta riitti kuitenkin tarvittaviin näkymiin.
