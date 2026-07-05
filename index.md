@@ -49,4 +49,10 @@ Nykyisten painikkeiden toimintoja voisi tarvittaessa muuttaa, ja koteloon olisi 
   <em>Painikekotelon rakentamista.</em>
 </p>
 
+<hr>
+
+<p>
+  <a href="https://vilperautomation.github.io/">← Kaikki projektit</a>
+</p>
+
 <link rel="stylesheet" href="assets/css/custom.css">
